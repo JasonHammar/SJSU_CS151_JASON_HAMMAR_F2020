@@ -3,10 +3,14 @@ Student ID: 012568517
 Major: Computer Science
 Preferred email: jason@jbear.org
 I am an undergraduate.
+Are you a graduating senior?
 I am not a graduating senior
-This is my first time taking this class
+Are you repeating the class?
+No. This is my first time taking this class
+List other CS courses you’ve completed so far at SJSU
 This is my first year at SJSU, so I have not completed any CS courses here.
+Any additional information you would like me to know about you?
 Additional information: I am a Star Wars nerd, so if you want to talk Star Wars, I'd be more than happy to. I ran Track in high school and ran a mile at 5:00. 
 I am a transfer student from De Anza, and I graduated from Cupertino High School in 2018.
+If we get the time during this semester I’d like to cover some special topics. Are there any specific topics you are interested in? 
 There aren't any specific topics that I would like you to go over, so I'm down for anything.
-© 2020 GitHub, Inc.
