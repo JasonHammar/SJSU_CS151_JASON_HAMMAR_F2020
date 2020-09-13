@@ -1,0 +1,11 @@
+Exercise 2:
+One of the main differences between data type int and data type Integer is the fact that 
+an int is a primitive data type, while integer is a class data type. The advantage of using an int data type
+over an Integer data type is that using an int is faster while an Integer is a bit slower 
+because Integer requires a package declaration. While they can both store data, Integer also helps to 
+convert the int into an object, while int just stores the data. Integer types are also more flexible in storing 
+int data types rather than int types. An int is also 32 bits, while an Integer is 128 bits. 
+Integer is also able to be converted to many different base values such as Binary, hexadecimal, etc. 
+Overall, there are many differences between the two, but the main differences are the int is a primitive data type 
+and is a little faster, while Integer is a class type, but is more flexible, bigger, and is better at storing data.
+Integers also have more functions than ints.
