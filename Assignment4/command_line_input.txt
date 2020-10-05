@@ -1,0 +1,4 @@
+hfhg
+kill
+walk
+@q
